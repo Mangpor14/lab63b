@@ -6,6 +6,7 @@
  1. ไมโครคอนโทรเลอร์ ESP-01
  2. สาย USB Type C
  3. usb to serial converter
+ 4. คอมพิวเตอร์ 
 * ศึกษาข้อมูลเบื้องต้น 
  [การเขียนโปรแกรมเบื้องต้นกับ arduino c+](https://www.myarduino.net/article/5/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A-arduino-c-%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87-arduino)
 * วิธีการทำการทดลอง
