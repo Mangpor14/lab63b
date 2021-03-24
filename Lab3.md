@@ -8,6 +8,7 @@
  4. คอมพิวเตอร์ 
  5. Adapter ต่อสาย port0 port1
 * ศึกษาข้อมูลเบื้องต้น 
+  
 * วิธีการทำการทดลอง
  1. ดูตัวอย่างในเนื้อหาที่ 3 พิมพ์ใน cmd 1s enter pwd enter vi src/main.cpp enter ![Screenshot 2021-03-24 004936](https://user-images.githubusercontent.com/80879651/112193883-e7ce9780-8c3a-11eb-8a12-97640d11565c.png)
  2. โปรแกรมจะ set ให้ port เป็นเลข 0 เป็นโหมด output แล้วก็วนลูปตลอดไป ทุกๆครึ่งวินาที 500ms ถ้า count เป็นเลขคี่ให้ on ถ้า count เป็นเลขคู่ให้ off ![Screenshot 2021-03-24 005518](https://user-images.githubusercontent.com/80879651/112194647-ae4a5c00-8c3b-11eb-8836-903b60b6b335.png)
