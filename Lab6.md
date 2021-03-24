@@ -8,6 +8,7 @@
  4. คอมพิวเตอร์ 
  5. กล่องสัญญาณไวไฟ
 * ศึกษาข้อมูลเบื้องต้น 
+  [สร้างไวไฟ AP](https://www.ioxhop.com/article/71/esp32-%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99-%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88-10-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-wifi)
 * วิธีการทำการทดลอง
  1. เข้าไปที่โปรแกรมที่ 6 : พิมพ์ใน cmd pwd enter vi src/main.cpp enter ![Screenshot 2021-03-24 161120](https://user-images.githubusercontent.com/80879651/112284283-a8945b00-8cbb-11eb-85d1-c6866129d9c6.png)
  2. ไมโครคอนโทรเลอร์มีไวไฟในตัวเองเป็น access point จะต้องกำหนดชื่อให้ ในตัวอย่างเราตั้ง username คือ TUENG-ESP-WIFI password คือ choompol ![Screenshot 2021-03-24 161607](https://user-images.githubusercontent.com/80879651/112284843-412adb00-8cbc-11eb-812c-e4b31a6dc86f.png)
