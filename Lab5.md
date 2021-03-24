@@ -7,7 +7,7 @@
  3. usb to serial converter
  4. คอมพิวเตอร์ 
 * ศึกษาข้อมูลเบื้องต้น 
- [การเชื่อมต่อไวไฟและเว็ปเซิร์เวอร์](https://lovecodingblogger.blogspot.com/2018/01/web-server-sensor-2-nodemcu-web-server.html)
+ [การเชื่อมต่อไวไฟและเว็ปเซิร์ฟเวอร์](https://lovecodingblogger.blogspot.com/2018/01/web-server-sensor-2-nodemcu-web-server.html)
 * วิธีการทำการทดลอง
  1. เข้าไปที่โปรแกรมที่ 5 : พิมพ์ใน cmd cd05_Wifi-Web-Server enter 1s enter vi src/main.cpp enter ![Screenshot 2021-03-24 122504](https://user-images.githubusercontent.com/80879651/112260155-0618af80-8c9c-11eb-89f4-a1a4a1fb03f8.png)
  2. โปรแกรมต่อกับไวไฟ จึงต้องรู้ username และ password ของไวไฟ
