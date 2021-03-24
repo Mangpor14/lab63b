@@ -14,10 +14,8 @@
  3. อัปโหลดโปรแกรมเข้าไปใน ไมโครคอนโทรเลอร์ : พิมพ์ใน cmd pio run -t upload พร้อมกับกดปุ่ม reset ![Screenshot 2021-03-24 161937](https://user-images.githubusercontent.com/80879651/112285305-beeee680-8cbc-11eb-9996-6850d8164faf.png)
  4. อัปโหลดเสร็จแล้ว ![Screenshot 2021-03-24 162123](https://user-images.githubusercontent.com/80879651/112285539-007f9180-8cbd-11eb-967a-8c983a9a838a.png)
  5. มอนิเตอร์ไมโครคอนโทรเลอร์ : พิมพ์ใน cmd pio device monitor enter ![Screenshot 2021-03-24 162504](https://user-images.githubusercontent.com/80879651/112286059-826fba80-8cbd-11eb-82ef-3ec392d16beb.png)
- 6. เช็คในโทรศัพท์มือถือว่าเจอไวไฟหรือเปล่า จะเห็นได้ว่าเห็นไวไฟ TUENG-ESP-WIFI 
+ 6. เช็คในโทรศัพท์มือถือว่าเจอไวไฟหรือเปล่า จะเห็นได้ว่าเห็นไวไฟ TUENG-ESP-WIFI แปลว่าเราสร้างไวไฟสำเร็จ
 ![Screenshot 2021-03-24 162748](https://user-images.githubusercontent.com/80879651/112286425-e3978e00-8cbd-11eb-9ba6-304e04a1bc57.png)
-
-
 * การบันทึกผลการทดลอง
 * อภิปรายผลการทดลอง
 * คำถามหลังการทดลอง
