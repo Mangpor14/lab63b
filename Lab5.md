@@ -6,6 +6,7 @@
  2. สาย USB Type C
  3. usb to serial converter
  4. คอมพิวเตอร์ 
+ 5. กล่องสัญญาณไวไฟ
 * ศึกษาข้อมูลเบื้องต้น 
  [การเชื่อมต่อไวไฟและเว็ปเซิร์ฟเวอร์](https://lovecodingblogger.blogspot.com/2018/01/web-server-sensor-2-nodemcu-web-server.html)
 * วิธีการทำการทดลอง
