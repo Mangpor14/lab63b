@@ -9,6 +9,7 @@
  5. Adapter ต่อสาย port0 port2
  6. LED 
 * ศึกษาข้อมูลเบื้องต้น 
+  [การควบคุมอินพุตสัญญาณดิจิตัล](https://www.ioxhop.com/article/67/esp32-%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99-%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88-6-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%95%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%95%E0%B9%8C%E0%B8%9E%E0%B8%B8%E0%B8%95%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99)
 * วิธีการทำการทดลอง
  1. source code : พิมพ์ใน cmd vi src/main.cpp enter setup ![Screenshot 2021-03-24 112201](https://user-images.githubusercontent.com/80879651/112254474-40318380-8c93-11eb-84d7-9d262b2a39a9.png) ให้ port0(สายสีขาว) เป็น input port2(สายสีเหลือง) เป็น output digital read ดึงเนื้อหาจาก port0 ซึ่งจะมี 2 ค่า คือ 0 1 ถ้าอ่านค่าออกมาเป็น 1 ไฟที่ port2 จะดับ แต่ถ้าอ่านค่าออกมาเป็น 0 ไฟที่ port2 จะติด ดังนั้นตัว port0 จึงเป็นตัวควบคุม port2
  2. อัปโหลดลงในไมโครคอนโทรเลอร์ : พิมพ์ใน cmd pio run -t upload และกดปุ่ม boost ที่ usb to serial converter ![Screenshot 2021-03-24 112813](https://user-images.githubusercontent.com/80879651/112254993-0c0a9280-8c94-11eb-9d5c-5ac4b9918c31.png)
