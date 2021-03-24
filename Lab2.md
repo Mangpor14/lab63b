@@ -21,6 +21,8 @@
 ![Screenshot 2021-03-23 235606](https://user-images.githubusercontent.com/80879651/112186064-5c053d00-8c33-11eb-94ae-52131c5e25d9.png)
  7. กดปุ่ม reset เพื่อให้ไมโครคอนโทรเลอร์ทำงานหนักกว่าเดิม หรือค้นหาไวไฟได้มากขึ้น ![Screenshot 2021-03-23 235936](https://user-images.githubusercontent.com/80879651/112186788-1137f500-8c34-11eb-95a8-85a5cb1ba60c.png) ![Screenshot (8)](https://user-images.githubusercontent.com/80879651/112186767-0aa97d80-8c34-11eb-9489-0401539ffe55.png)
 * การบันทึกผลการทดลอง
+  * ไมโครคอนโทรเลอร์ ESP-01 สามารถค้นหาไวไฟได้ ซึ่งในผลการทดลองไมโครคอนโทรเลอร์เห็นไวไฟ 4 ตัว ![Screenshot 2021-03-24 175740](https://user-images.githubusercontent.com/80879651/112299601-86eea000-8cca-11eb-9842-d865683c05cf.png)
 * อภิปรายผลการทดลอง
+  * 
 * คำถามหลังการทดลอง
 
