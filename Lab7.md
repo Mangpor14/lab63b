@@ -12,7 +12,7 @@
    7. LDR Photoresistor
    8. ตัวต้านทาน
   ## ศึกษาข้อมูลเบื้องต้น 
-   1. [วัดความเข้มแสง](https://www.myarduino.net/article/211/%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-nodemcu-esp8266-%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%84%E0%B8%9F%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87) , [BH1750](http://127.0.0.1:8010/session/3f2a8d5865cd1dafc753cc22bba82ce7efb06094/?start=%2F&theme=dark&utm_source=platformio&utm_medium=piohome)
+   1. [วัดความเข้มแสง](https://www.myarduino.net/article/211/%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-nodemcu-esp8266-%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%84%E0%B8%9F%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87) , [BH1750](https://github.com/claws/BH1750)
    2. [lightsensor](https://github.com/choompol-boonmee/lab63b/blob/master/examples/04_Input-Port/src/main.cpp)
   ## วิธีการทำการทดลอง
   1. เปิดโปรแกรม Visual studio code
@@ -32,6 +32,6 @@
 
 
 
-* การบันทึกผลการทดลอง
-* อภิปรายผลการทดลอง
-* คำถามหลังการทดลอง
+  ## การบันทึกผลการทดลอง
+  ## อภิปรายผลการทดลอง
+  ## คำถามหลังการทดลอง
