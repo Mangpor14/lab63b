@@ -42,9 +42,9 @@
 ![Screenshot 2021-03-31 183923](https://user-images.githubusercontent.com/80879651/113138848-874de480-9250-11eb-917e-ab75ec150945.png)
   ## การบันทึกผลการทดลอง
    * ในที่นี้เราไม่มีอุปกรณ์ที่จะรันโค้ดเข้าไปในบอร์ดจริงได้ จึงขอยืมรูปจากเว็ปไซต์ที่อ้างอิง และรูปจากแลปอิเล็กทรอนิกส์มาใช้เป็นตัวอย่างผลการทดลอง
-    * ![Screenshot 2021-03-31 184551](https://user-images.githubusercontent.com/80879651/113154231-00a20300-9262-11eb-829f-8bd2be06da0d.png) 
-    * ![Screenshot 2021-03-31 205858](https://user-images.githubusercontent.com/80879651/113156726-74450f80-9264-11eb-89bf-134a6e917166.png)
-    * ![Screenshot 2021-03-31 205923](https://user-images.githubusercontent.com/80879651/113156743-78712d00-9264-11eb-9078-218357df8347.png)
+     * ![Screenshot 2021-03-31 184551](https://user-images.githubusercontent.com/80879651/113154231-00a20300-9262-11eb-829f-8bd2be06da0d.png) 
+     * ![Screenshot 2021-03-31 205858](https://user-images.githubusercontent.com/80879651/113156726-74450f80-9264-11eb-89bf-134a6e917166.png)
+     * ![Screenshot 2021-03-31 205923](https://user-images.githubusercontent.com/80879651/113156743-78712d00-9264-11eb-9078-218357df8347.png)
 
 
   ## อภิปรายผลการทดลอง
