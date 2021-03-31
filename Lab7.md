@@ -26,11 +26,21 @@
 ![Screenshot 2021-03-31 121923](https://user-images.githubusercontent.com/80879651/113094433-dcbbce80-921b-11eb-8957-8394c1fb4749.png)
   5. บอร์ดที่เราสร้าง หรือข้อมูลของบอร์ดก็จะอยู่ใน platformio.ini
      * ![Screenshot 2021-03-31 135921](https://user-images.githubusercontent.com/80879651/113103327-58704800-9229-11eb-8771-5956c8de9f05.png)
-  6. เราจะดึงค่าตัวแปรต้นแบบที่เราจะนำมาใช้เขียนโค้ดก่อน กดรูปบ้าน แล้วกดที่ Libraries 
+  6. เริ่มแรก เราจะดึงค่าตัวแปรต้นแบบที่เราจะนำมาใช้เขียนโค้ดก่อน กดรูปบ้าน แล้วกดที่ Libraries 
      * ![Screenshot 2021-03-31 181345](https://user-images.githubusercontent.com/80879651/113135931-f1fd2100-924c-11eb-8bae-7c79963237b0.png)
-
-
-
+  7. พิมพ์สิ่งเราต้องการค้นหา แต่ในตัวอย่างเราพิมพ์ BH1750FVI(คือ การหาความเข้มแสง)
+     * ![Screenshot 2021-03-31 182130](https://user-images.githubusercontent.com/80879651/113136777-f413af80-924d-11eb-895f-1d849cecfbd7.png)
+  8. เลือกโค้ดที่เราสนใจ ซึ่งเลือกอันบนสุด แล้วกด Add to project
+     * ![Screenshot 2021-03-31 182740](https://user-images.githubusercontent.com/80879651/113137515-d430bb80-924e-11eb-8f3a-b5dd46693d68.png)
+  9. ใน platformio.ini ก็จะมีสิ่งที่เราเพิ่มเข้ามา
+     * ![Screenshot 2021-03-31 183031](https://user-images.githubusercontent.com/80879651/113137931-5f11b600-924f-11eb-97f8-b9e4b18dd4e3.png)
+ 10. หลังจากนั้นก็มาเขียนโค้ด ซึ่งเขียนใน main.cpp
+     * ![Screenshot 2021-03-31 183404](https://user-images.githubusercontent.com/80879651/113138266-c4fe3d80-924f-11eb-9f8e-f5cdd158373d.png)
+![Screenshot 2021-03-31 183645](https://user-images.githubusercontent.com/80879651/113138513-127aaa80-9250-11eb-9cf4-6d037eb2dfd3.png)
+ 11. แล้วรันโค้ดออกมาสำเร็จ จึงสามารถใช้ได้
+     * ![Screenshot 2021-03-31 183858](https://user-images.githubusercontent.com/80879651/113138840-8452f400-9250-11eb-9c14-22876acc72d9.png)
+![Screenshot 2021-03-31 183923](https://user-images.githubusercontent.com/80879651/113138848-874de480-9250-11eb-917e-ab75ec150945.png)
+ 12. แต่ในที่นี้เราไม่มีอุปกรณ์ที่จะรันโค้ดเข้าไปในบอร์ดจริง 
 
 
 
