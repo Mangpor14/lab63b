@@ -15,11 +15,11 @@
  1. [วัดความเข้มแสง](https://www.myarduino.net/article/211/%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-nodemcu-esp8266-%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%84%E0%B8%9F%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87)
  2. [lightsensor](https://github.com/choompol-boonmee/lab63b/blob/master/examples/04_Input-Port/src/main.cpp)
 * วิธีการทำการทดลอง
- 1. เปิดโปรแกรม Visual studio code
+  1. เปิดโปรแกรม Visual studio code
     * ![Screenshot 2021-03-31 110836](https://user-images.githubusercontent.com/80879651/113090609-649dda80-9214-11eb-93be-24d68d1e5967.png)
- 2. กดที่หน้าเอเลี่ยน หรือ platformio แล้วเพิ่มโปรเจ็กใหม่
+  2. กดที่หน้าเอเลี่ยน หรือ platformio แล้วเพิ่มโปรเจ็กใหม่
     * ![Screenshot 2021-03-31 113138](https://user-images.githubusercontent.com/80879651/113090876-f7d71000-9214-11eb-881b-c2aab3eb8d40.png)
- 3. ตั้งชื่อโปรเจ็ก และเลือกบอร์ดที่ใช้
+  3. ตั้งชื่อโปรเจ็ก และเลือกบอร์ดที่ใช้
     * ![Screenshot 2021-03-31 113228](https://user-images.githubusercontent.com/80879651/113092969-3a9ae700-9219-11eb-8a7d-ee512ceacde4.png)
 
 
