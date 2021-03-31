@@ -26,7 +26,9 @@
 ![Screenshot 2021-03-31 121923](https://user-images.githubusercontent.com/80879651/113094433-dcbbce80-921b-11eb-8957-8394c1fb4749.png)
   5. บอร์ดที่เราสร้าง หรือข้อมูลของบอร์ดก็จะอยู่ใน platformio.ini
      * ![Screenshot 2021-03-31 135921](https://user-images.githubusercontent.com/80879651/113103327-58704800-9229-11eb-8771-5956c8de9f05.png)
-  6. เริ่มเขียนโค้ด
+  6. เราจะดึงค่าตัวแปรต้นแบบที่เราจะนำมาใช้เขียนโค้ดก่อน กดรูปบ้าน แล้วกดที่ Libraries 
+     * ![Screenshot 2021-03-31 181345](https://user-images.githubusercontent.com/80879651/113135931-f1fd2100-924c-11eb-8bae-7c79963237b0.png)
+
 
 
 
