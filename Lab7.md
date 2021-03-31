@@ -19,8 +19,12 @@
      * ![Screenshot 2021-03-31 110836](https://user-images.githubusercontent.com/80879651/113090609-649dda80-9214-11eb-93be-24d68d1e5967.png)
   2. กดที่หน้าเอเลี่ยน หรือ platformio แล้วเพิ่มโปรเจ็กใหม่
      * ![Screenshot 2021-03-31 113138](https://user-images.githubusercontent.com/80879651/113090876-f7d71000-9214-11eb-881b-c2aab3eb8d40.png)
-  3. ตั้งชื่อโปรเจ็ก และเลือกบอร์ดที่ใช้
+  3. ตั้งชื่อโปรเจ็ก และเลือกบอร์ดที่ใช้ แล้วกด finish
      * ![Screenshot 2021-03-31 113228](https://user-images.githubusercontent.com/80879651/113092969-3a9ae700-9219-11eb-8a7d-ee512ceacde4.png)
+  4. หลังจากนั้นโปรแกรมก็จะสร้างโฟลเดอร์ของไฟล์นี้ ซึ่งเวลาเขียนโค้ดก็จะเขียนใน main.cpp
+     * ![Screenshot 2021-03-31 122027](https://user-images.githubusercontent.com/80879651/113094304-9c5c5080-921b-11eb-935d-70b7a10c6da0.png) 
+![Screenshot 2021-03-31 121923](https://user-images.githubusercontent.com/80879651/113094433-dcbbce80-921b-11eb-8957-8394c1fb4749.png)
+
 
 
 * การบันทึกผลการทดลอง
