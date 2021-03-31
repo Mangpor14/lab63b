@@ -16,7 +16,12 @@
  2. [lightsensor](https://github.com/choompol-boonmee/lab63b/blob/master/examples/04_Input-Port/src/main.cpp)
 * วิธีการทำการทดลอง
   1. เปิดโปรแกรม Visual studio code
-     * ![Screenshot 2021-03-31 110836](https://user-images.githubusercontent.com/80879651/113090609-649dda80-9214-11eb-93be-24d68d1e5967.png)
+  * ![Screenshot 2021-03-31 110836](https://user-images.githubusercontent.com/80879651/113090609-649dda80-9214-11eb-93be-24d68d1e5967.png)
+  2. กดที่หน้าเอเลี่ยน หรือ platformio แล้วเพิ่มโปรเจ็กใหม่
+  * ![Screenshot 2021-03-31 113138](https://user-images.githubusercontent.com/80879651/113090876-f7d71000-9214-11eb-881b-c2aab3eb8d40.png)
+  3. ตั้งชื่อโปรเจ็ก และเลือกบอร์ดที่ใช้
+  * ![Screenshot 2021-03-31 113228](https://user-images.githubusercontent.com/80879651/113092969-3a9ae700-9219-11eb-8a7d-ee512ceacde4.png)
+
 
 * การบันทึกผลการทดลอง
 * อภิปรายผลการทดลอง
